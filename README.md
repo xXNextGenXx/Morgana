@@ -1,2 +1,2 @@
 # Morgana
- Uma I.A de Assistente Virtual Feito em Python por um Brasileiro, é tipo a Alexa.
+ Uma I.A de Assistente Virtual Feita em Python por um Brasileiro, é tipo a Alexa.
